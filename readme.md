@@ -52,16 +52,6 @@ pip install -r requirements.txt
         └── ISIC2018_Task1_Training_GroundTruth/
     ```
 
-### 3. Training
-
-You can start training by running the training script.
-*   `--dataset`: The dataset to train on (e.g., `BUSI`, `CVC`, `ISIC`).
-*   `--img_size`: Input image size.
-*   `--epochs`: Total number of training epochs.
-*   `--batch_size`: Batch size.
-*   `--base_lr`: Initial learning rate.
-
-
 ## 📜 Citation
 
 If you find our work helpful for your research, please consider citing our paper.
